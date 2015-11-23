@@ -1,3 +1,12 @@
+Workflow required
+
+1. Signin to application
+2. Search for Patient by UR/Name/Visit No.
+3. Select Patient and Visit
+4. Select Document to be signed
+5. Allow patient to read document and sign.
+6. Upload document to repository
+
 The tasks/components to be created for this project.
 
 1. Create document to be signed.  
